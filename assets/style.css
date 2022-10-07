@@ -456,7 +456,7 @@ html {
     align-self: center;
     position: relative;
     background-position: center center;
-    background-image: url(assets/img/banner_2.jpg);
+    background-image: url(../assets/img/banner_2.jpg);
 }
 
 .offer {
@@ -781,7 +781,7 @@ h3 {
 
 .parallax {
   /* The image used */
-    background-image: url("assets/img/paralax_bg.jpg");
+    background-image: url("../assets/img/paralax_bg.jpg");
   /* Full height */
     height: 100%;
   /* Create the parallax scrolling effect */
